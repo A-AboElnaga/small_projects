@@ -224,7 +224,7 @@ if __name__ == "__main__":
             screen.fill((0, 0, 0))
             # Background Image
             screen.blit(background, (0, 0))
-            title_label = title_font.render("Press the mouse tp begin...",1,(255,255,255))
+            title_label = title_font.render("Press the mouse to begin...",1,(255,255,255))
             title_rect = title_label.get_rect(center=(screen_width/2,screen_height/2))
             screen.blit(title_label,title_rect)
             pygame.display.update()
