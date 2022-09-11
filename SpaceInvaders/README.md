@@ -16,7 +16,7 @@ If you are the owner of any these files please let me know so I can take these f
 # Controls
 
 for movment:
-![movment_controls](https://github.com/A-AboElnaga/small_projects/new/main/SpaceInvaders/movment_controls.png?raw=true "movment")
+![movment_controls](https://github.com/A-AboElnaga/small_projects/blob/main/SpaceInvaders/movment_controls.png)
 
 press spacebar to fire
 
