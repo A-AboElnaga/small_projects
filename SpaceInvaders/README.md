@@ -7,13 +7,13 @@ If you are the owner of any these files please let me know so I can take these f
 
 # Contents:
 
-- [Game Setup](#Game Setup)
+- [GameSetup](#GameSetup)
 - [Controls](#Controls)
-- [Discerption](#Currently the game is only one level (few hours of work on 10/9/2023))
+- [Discerption](#Currently)
 
 
 
-# Game Setup:
+# GameSetup:
 
 1. make sure you have pygame installed on your machine
 2. the game window is 1200*720, please change before you run if you have a smaller screen, but also note that the game may not work as expected   
