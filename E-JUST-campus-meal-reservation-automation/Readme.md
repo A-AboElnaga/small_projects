@@ -1,4 +1,4 @@
-note: make sure you have the version of chrome driver that matches your browser version. Replace "chromedriver.exe" woth the version that much your chrome browser from [here](https://chromedriver.chromium.org/ "chromedriver")
+note: make sure you have the version of chrome driver that matches your browser version. Replace "chromedriver.exe" woth the version that much your chrome browser from [here.](https://chromedriver.chromium.org/ "chromedriver")
 
 # A web scraping block in python using selenium and chromedriver
 
