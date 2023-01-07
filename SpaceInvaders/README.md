@@ -8,7 +8,7 @@ If you are the owner of any these files please let me know so I can take these f
 
 - [GameSetup](#GameSetup)
 - [Controls](#Controls)
-- [Discerption](#currently-the-game-is-only-one-level-few-hours-of-work-on-1092022)
+- [Description](#currently-the-game-is-only-one-level-few-hours-of-work-on-1092022)
 
 
 
