@@ -3,14 +3,14 @@
 
 #include <avr/io.h>
 #include <stdint.h>
-#include "delay.h"
-#include "max7219.h"
-#include "spi.h"
-#include "ky023.h"
-#include "Engine.h"
-#include "SpaceGame.h"
-#include "Game.h"
-#include "Vector2.h"
+#include "src/delay.h"
+#include "src/max7219.h"
+#include "src/spi.h"
+#include "src/ky023.h"
+#include "src/Engine.h"
+#include "src/SpaceGame.h"
+#include "src/Game.h"
+#include "src/Vector2.h"
 
 //Fire Switch on PORTD4
 #define BUTTON_PIN PORTD4
