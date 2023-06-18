@@ -1,5 +1,5 @@
 # Game Console 
-## Based on [https://github.com/SebLague/Monster-Console](this repo)
+## Based on (https://github.com/SebLague/Monster-Console)[this repo]
 _______________________
 A gaming console on Atmega328P, with single joystick and an 8x8 LED matrix
 
